@@ -1,0 +1,15 @@
+D:\Blogger\Wizard\Code\Wizard.Web\bin\Release\netcoreapp2.0\Wizard.Web.deps.json
+D:\Blogger\Wizard\Code\Wizard.Web\bin\Release\netcoreapp2.0\Wizard.Web.runtimeconfig.json
+D:\Blogger\Wizard\Code\Wizard.Web\bin\Release\netcoreapp2.0\Wizard.Web.runtimeconfig.dev.json
+D:\Blogger\Wizard\Code\Wizard.Web\bin\Release\netcoreapp2.0\Wizard.Web.dll
+D:\Blogger\Wizard\Code\Wizard.Web\bin\Release\netcoreapp2.0\Wizard.Web.pdb
+D:\Blogger\Wizard\Code\Wizard.Web\bin\Release\netcoreapp2.0\Wizard.Model.dll
+D:\Blogger\Wizard\Code\Wizard.Web\bin\Release\netcoreapp2.0\Wizard.Model.pdb
+D:\Blogger\Wizard\Code\Wizard.Web\obj\Release\netcoreapp2.0\Wizard.Web.csprojResolveAssemblyReference.cache
+D:\Blogger\Wizard\Code\Wizard.Web\obj\Release\netcoreapp2.0\Wizard.Web.csproj.CoreCompileInputs.cache
+D:\Blogger\Wizard\Code\Wizard.Web\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Blogger\Wizard\Code\Wizard.Web\obj\Release\netcoreapp2.0\Wizard.Web.AssemblyInfoInputs.cache
+D:\Blogger\Wizard\Code\Wizard.Web\obj\Release\netcoreapp2.0\Wizard.Web.AssemblyInfo.cs
+D:\Blogger\Wizard\Code\Wizard.Web\obj\Release\netcoreapp2.0\Wizard.Web.csproj.CopyComplete
+D:\Blogger\Wizard\Code\Wizard.Web\obj\Release\netcoreapp2.0\Wizard.Web.dll
+D:\Blogger\Wizard\Code\Wizard.Web\obj\Release\netcoreapp2.0\Wizard.Web.pdb

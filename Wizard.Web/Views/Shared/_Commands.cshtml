@@ -1,0 +1,9 @@
+﻿@model IEnumerable<NavigationCommandView>
+
+@foreach (var item in Model)
+{
+    <input name="submit"
+           asp-route-commandid="@item.Id"
+           class="@item.CssClass"
+           type="submit" value="@item.Text" />
+}

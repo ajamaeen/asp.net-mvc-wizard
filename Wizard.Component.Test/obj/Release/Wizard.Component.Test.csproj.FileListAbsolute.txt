@@ -1,0 +1,16 @@
+D:\Blogger\Wizard\Code\Wizard.Component.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Blogger\Wizard\Code\Wizard.Component.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Blogger\Wizard\Code\Wizard.Component.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Blogger\Wizard\Code\Wizard.Component.Test\bin\Release\Wizard.Component.Test.dll
+D:\Blogger\Wizard\Code\Wizard.Component.Test\bin\Release\Wizard.Component.Test.pdb
+D:\Blogger\Wizard\Code\Wizard.Component.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Blogger\Wizard\Code\Wizard.Component.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Blogger\Wizard\Code\Wizard.Component.Test\bin\Release\Wizard.Model.dll
+D:\Blogger\Wizard\Code\Wizard.Component.Test\bin\Release\Wizard.Model.pdb
+D:\Blogger\Wizard\Code\Wizard.Component.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Blogger\Wizard\Code\Wizard.Component.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Blogger\Wizard\Code\Wizard.Component.Test\obj\Release\Wizard.Component.Test.csprojResolveAssemblyReference.cache
+D:\Blogger\Wizard\Code\Wizard.Component.Test\obj\Release\Wizard.Component.Test.csproj.CoreCompileInputs.cache
+D:\Blogger\Wizard\Code\Wizard.Component.Test\obj\Release\Wizard.Component.Test.csproj.CopyComplete
+D:\Blogger\Wizard\Code\Wizard.Component.Test\obj\Release\Wizard.Component.Test.dll
+D:\Blogger\Wizard\Code\Wizard.Component.Test\obj\Release\Wizard.Component.Test.pdb

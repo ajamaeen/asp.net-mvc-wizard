@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Alphabetical" MembersFormat="NameAndType">
+  <Class Name="Wizard.Model.BaseWizard&lt;T&gt;" Collapsed="true">
+    <Position X="1.5" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIIAAABCBAIAAACAAIBAAiAAAAAAAAAAAAACAQAAA=</HashCode>
+      <FileName>BaseWizard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard.Model.Bookmark&lt;T&gt;" Collapsed="true">
+    <Position X="4.5" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAADAAAAIA=</HashCode>
+      <FileName>Bookmark.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard.Model.NavigationCommand&lt;T&gt;" Collapsed="true">
+    <Position X="1.5" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAIGAAAABAAAAIQAAAAAAAAAAAAAAAAIAAAACAAAAAA=</HashCode>
+      <FileName>NavigationCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard.Model.WizardNavigator&lt;T&gt;" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAQJEAYCAAIwAQABJAQiAiBgIASCBAIABEAAggAAA=</HashCode>
+      <FileName>WizardNavigator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Wizard.Model.WizardState&lt;T&gt;" Collapsed="true">
+    <Position X="1.5" Y="2.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>WizardState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard.Model.WizardStep" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAEAACAAAAAAAAAAAABAAAAAAAABAAAA=</HashCode>
+      <FileName>WizardStep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard.Model.WizardStepCollection" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WizardStepCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard.Model.WizardNavigationEventArgs" Collapsed="true">
+    <Position X="1.5" Y="3.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAgAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WizardNavigationEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Wizard.Model.IWizardNavigator&lt;T&gt;" Collapsed="true">
+    <Position X="7.5" Y="0.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQIEAYCAAIAAQAAJAQAAgBgIACAAAIABEAAgAAAA=</HashCode>
+      <FileName>IWizardNavigator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Wizard.Model.IWizardNavigatorService&lt;T&gt;" Collapsed="true">
+    <Position X="1.5" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AgAAAMAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IWizardNavigatorService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Wizard.Model.BookmarkState" Collapsed="true">
+    <Position X="4.5" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BookmarkState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

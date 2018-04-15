@@ -1,0 +1,15 @@
+﻿@model Step1ViewModel
+@{
+    ViewData["Title"] = "Step1";
+    Layout = "~/Views/Shared/_LayoutWizard.cshtml";
+}
+
+<h2>Sample 1 - Step1</h2>
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+<div class="form-group">
+    <label asp-for="Step1Value"></label>
+    <input asp-for="Step1Value" class="form-control" />
+    <span asp-validation-for="Step1Value" class="text-danger"></span>
+</div>

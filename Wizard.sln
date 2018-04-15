@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wizard.Model", "Wizard.Component\Wizard.Model.csproj", "{35482880-2181-4752-8905-94B80A45E39C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{75CB1ED9-8F4D-4794-8A13-6B50B640D92D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wizard.Component.Test", "Wizard.Component.Test\Wizard.Component.Test.csproj", "{1CD0BF9D-9736-48DB-9471-969F50FF2AAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wizard.Web", "Wizard.Web\Wizard.Web.csproj", "{14F3D782-F7A7-47BC-9A35-E9CFC708CB30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35482880-2181-4752-8905-94B80A45E39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35482880-2181-4752-8905-94B80A45E39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35482880-2181-4752-8905-94B80A45E39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35482880-2181-4752-8905-94B80A45E39C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CD0BF9D-9736-48DB-9471-969F50FF2AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD0BF9D-9736-48DB-9471-969F50FF2AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD0BF9D-9736-48DB-9471-969F50FF2AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD0BF9D-9736-48DB-9471-969F50FF2AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F3D782-F7A7-47BC-9A35-E9CFC708CB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F3D782-F7A7-47BC-9A35-E9CFC708CB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F3D782-F7A7-47BC-9A35-E9CFC708CB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F3D782-F7A7-47BC-9A35-E9CFC708CB30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1CD0BF9D-9736-48DB-9471-969F50FF2AAB} = {75CB1ED9-8F4D-4794-8A13-6B50B640D92D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6FCE784-4303-437E-B97D-4FEE201B19E6}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ajamaeen.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Wizard.Component.Test\\Wizard.Component.Test.csproj
+		SccProjectTopLevelParentUniqueName1 = Wizard.sln
+		SccProjectName1 = Wizard.Component.Test
+		SccLocalPath1 = Wizard.Component.Test
+		SccProjectUniqueName2 = Wizard.Web\\Wizard.Web.csproj
+		SccProjectName2 = Wizard.Web
+		SccLocalPath2 = Wizard.Web
+		SccProjectUniqueName3 = Wizard.Component\\Wizard.Model.csproj
+		SccProjectName3 = Wizard.Component
+		SccLocalPath3 = Wizard.Component
+	EndGlobalSection
+EndGlobal

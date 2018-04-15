@@ -1,0 +1,27 @@
+﻿@model IEnumerable<BookmarkView>
+
+<nav class="nav nav-pills nav-fill">
+    <div class="container-fluid">
+        <ul class="nav navbar-nav">
+            @foreach (var bookmar in Model)
+            {
+                <li>
+                    @if (bookmar.Active)
+                    {
+                        <a class="@bookmar.CssClass"
+                           asp-action="Bookmark"
+                           asp-route-stepId="@bookmar.Id">
+                            @bookmar.Text
+                        </a>
+                    }
+                    else
+                    {
+                        <a class="@bookmar.CssClass" href="#">
+                            @bookmar.Text
+                        </a>
+                    }
+                </li>
+            }
+        </ul>
+    </div>
+</nav>
