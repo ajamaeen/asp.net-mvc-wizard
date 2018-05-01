@@ -116,12 +116,9 @@
             }
         }
 
-        public virtual string WizardName
+        public abstract string WizardName
         {
-            get
-            {
-                return "wizard1";
-            }
+            get;
         }
     }
 }
